@@ -1,0 +1,8 @@
+1. Ask user for filename
+2. Check whether the file exists
+3. If it doesn't exist → show an error
+4. If it exists → open it in read mode
+5. Read the contents
+6. Convert contents to uppercase using upper()
+7. Print the result
+8. Optional: write uppercase contents to another file
