@@ -1,0 +1,13 @@
+"I remember Python, but I'm rusty."
+        ↓
+"I'll propose the logic first."
+        ↓
+"I'll implement it."
+        ↓
+"It broke."
+        ↓
+"Why?"
+        ↓
+"Okay, I understand the concept."
+        ↓
+"Next question."
