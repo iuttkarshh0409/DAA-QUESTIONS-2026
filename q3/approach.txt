@@ -1,0 +1,11 @@
+count = 0
+total = 0
+
+for every line:
+    find target
+    if target exists:
+        extract number
+        total += number
+        count += 1
+
+average = total / count
