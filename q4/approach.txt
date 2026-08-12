@@ -1,0 +1,20 @@
+Create empty list
+
+Open file
+    ↓
+Read one line
+    ↓
+Split line into words
+    ↓
+For every word:
+    Is it already in list?
+        No → append
+        Yes → ignore
+    ↓
+Next line
+    ↓
+Repeat until file ends
+    ↓
+Sort final list
+    ↓
+Print
